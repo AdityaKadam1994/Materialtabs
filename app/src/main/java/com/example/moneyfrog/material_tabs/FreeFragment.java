@@ -15,7 +15,6 @@ public class FreeFragment extends Fragment {
 
 
     public FreeFragment() {
-        // Required empty public constructor
     }
 
 
